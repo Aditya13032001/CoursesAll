@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/CoursesAll/static/css/main.bb60505a.css",
+    "main.js": "/CoursesAll/static/js/main.2c009f3f.js",
+    "static/media/digital.jpg": "/CoursesAll/static/media/digital.84bc13e0c010228c6313.jpg",
+    "static/media/node.jpg": "/CoursesAll/static/media/node.a6d913a6523807392b04.jpg",
+    "static/media/fullstack.jpg": "/CoursesAll/static/media/fullstack.673fdf08bebeca3d78c8.jpg",
+    "static/media/cn.jpg": "/CoursesAll/static/media/cn.6486975a970d96fe9c49.jpg",
+    "static/media/react.jpg": "/CoursesAll/static/media/react.5cd282d3beb924005037.jpg",
+    "static/media/android.jpg": "/CoursesAll/static/media/android.97462382aa1cefa9cda0.jpg",
+    "static/media/devops.jpg": "/CoursesAll/static/media/devops.7b0a11f9771ec3c60005.jpg",
+    "static/media/ai.jpg": "/CoursesAll/static/media/ai.7e4f079b5877426365f9.jpg",
+    "static/media/learn2.jpg": "/CoursesAll/static/media/learn2.477b2da4447b5e1eb0c6.jpg",
+    "static/media/learn1.jpg": "/CoursesAll/static/media/learn1.cbcf47b989d401d0802c.jpg",
+    "static/media/testimonial.jpg": "/CoursesAll/static/media/testimonial.dffce2151a70a3ce9ab5.jpg",
+    "static/media/image-01-2.png": "/CoursesAll/static/media/image-01-2.00cb1968522548b55b1d.png",
+    "static/media/logo.png": "/CoursesAll/static/media/logo.e3839fe9595e0311fee9.png",
+    "static/media/image-02-2.png": "/CoursesAll/static/media/image-02-2.02f1f3afaccca7c7d230.png",
+    "static/media/about-image-02-2.jpg": "/CoursesAll/static/media/about-image-02-2.042e198905716ede00c1.jpg",
+    "index.html": "/CoursesAll/index.html",
+    "main.bb60505a.css.map": "/CoursesAll/static/css/main.bb60505a.css.map",
+    "main.2c009f3f.js.map": "/CoursesAll/static/js/main.2c009f3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb60505a.css",
+    "static/js/main.2c009f3f.js"
+  ]
+}
